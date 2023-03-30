@@ -5,6 +5,7 @@ body{
 }
 
 div{
+  
 width: 200px;
 height: 200px;
 border: 10px solid blue;
@@ -20,6 +21,7 @@ margin-bottom: 100px;
 margin-left: 10px;
 }
 span{
+  
   background-color: rgb(235, 152, 152);
   width: 100px;
 height: 100px;
